@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "122153449474",
+    "project_id": "finans-984fe",
+    "storage_bucket": "finans-984fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122153449474:android:dd6601f86a09b84b8b0f1b",
+        "android_client_info": {
+          "package_name": "com.sadeceis.finans"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKFKchKtztmqhgFMhhme4brfUHpuF_oMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
